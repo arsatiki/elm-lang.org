@@ -30,6 +30,7 @@ quickStart = """
 ### Quick Start
 
   * [For JS users](/docs/from-javascript)
+  * [Get started with Elm and the Elm tools](/get-started)
   * [Make an HTML app](https://github.com/evancz/start-app)
   * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/)
   * [TodoMVC](https://github.com/evancz/elm-todomvc)
